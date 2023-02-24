@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/contact-us-form/static/css/main.31ad8042.css",
+    "main.js": "/contact-us-form/static/js/main.bcec8cc5.js",
+    "static/js/787.e8769ff5.chunk.js": "/contact-us-form/static/js/787.e8769ff5.chunk.js",
+    "static/media/captura.png": "/contact-us-form/static/media/captura.2ce9b1b10a6d7860821c.png",
+    "static/media/ApercuArabicPro-Regular.ttf": "/contact-us-form/static/media/ApercuArabicPro-Regular.d96e62b0b9abc2e551fc.ttf",
+    "static/media/ApercuArabicPro-Regular.woff": "/contact-us-form/static/media/ApercuArabicPro-Regular.9e5cfe7ad055bc9bb902.woff",
+    "static/media/ApercuArabicPro-Regular.woff2": "/contact-us-form/static/media/ApercuArabicPro-Regular.9454d41e9c47cdaaa6a2.woff2",
+    "index.html": "/contact-us-form/index.html",
+    "main.31ad8042.css.map": "/contact-us-form/static/css/main.31ad8042.css.map",
+    "main.bcec8cc5.js.map": "/contact-us-form/static/js/main.bcec8cc5.js.map",
+    "787.e8769ff5.chunk.js.map": "/contact-us-form/static/js/787.e8769ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ad8042.css",
+    "static/js/main.bcec8cc5.js"
+  ]
+}
